@@ -5,10 +5,15 @@ You can download your favorite Friday night funkin Mods
 [Jonnycat Ports](https://jonnycatports.netlify.app)  
 
 # WE NEED DEVELOPERS!!!  
-if you're a coder or a port for linux or ios and android for haxe friay night funkin please contact me or put it in issues  
+if you're a coder or a port for linux and  android for haxe friay night funkin please contact me or put it in issues  
 
 # Note  
 I build only with source code.
 
 # Schedual 
-I do 3 ports every day!!!!
+I Do Daily Ports 
+
+# How to open the mac the macOS application
+1. Right click the appliction until it says something like "unknow developer" click open 
+2. You can play the game 
+3. If this didn't help you this please watch this video https://www.youtube.com/watch?v=yJoSrBe7Tpg   
