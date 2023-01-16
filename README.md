@@ -14,6 +14,6 @@ I build only with source code.
 I Do Daily Ports 
 
 # How to open the mac the macOS application
-1. Right click the appliction until it says something like "unknow developer" click open 
+1. Right click the appliction until it says something like "App can’t be opened because it is from an unidentified developer" click open 
 2. You can play the game 
 3. If this didn't help you this please watch this video https://www.youtube.com/watch?v=yJoSrBe7Tpg   
