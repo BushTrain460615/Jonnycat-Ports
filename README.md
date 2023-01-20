@@ -11,7 +11,7 @@ if you're a coder or a port for linux and  android for haxe friay night funkin p
 I build only with source code.
 
 # Schedual 
-I Do Daily Ports 
+I Do Daily Ports and if i don't do daily ports sometimes then that means that i am doing something 
 
 # How to open the mac the macOS application
 1. Right click the appliction until it says something like "App can’t be opened because it is from an unidentified developer" click open 
