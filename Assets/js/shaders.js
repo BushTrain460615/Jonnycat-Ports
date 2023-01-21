@@ -1,4 +1,5 @@
- 
+ let gl; 
+let program;
 //thank you mozilla website
 function createShader(gl, sourceCode, type) {
   // Compiles either a shader of type gl.VERTEX_SHADER or gl.FRAGMENT_SHADER
