@@ -1,4 +1,5 @@
- let gl; 
+let gl;  
+let VERTEX_SHADER 
 let program;
 //thank you mozilla website
 function createShader(gl, sourceCode, type) {
